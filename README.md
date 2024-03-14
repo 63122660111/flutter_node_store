@@ -5,6 +5,10 @@
 หน้าLogin
 ![หน้า Login](https://github.com/63122660111/flutter_node_store/assets/77773868/c353ec9a-db75-40a7-920c-2cfd428f60b2)
 
+หน้าสมัคร
+![ลงทะเบียน](https://github.com/63122660111/flutter_node_store/assets/77773868/45989f56-35d2-4f57-ace1-02cd8731795c)
+
+
 หน้าHome
 ![หน้า Home](https://github.com/63122660111/flutter_node_store/assets/77773868/b2d0b3ff-ba7c-4337-8460-1343781dc26b)
 
